@@ -41,4 +41,5 @@
 ## Live #3: 시연 영상
 
 [![Video Label](http://img.youtube.com/vi/l22ozmmE3iE/0.jpg)](https://youtu.be/l22ozmmE3iE)
+
 이미지를 누르면 유튜브로 넘어가짐
