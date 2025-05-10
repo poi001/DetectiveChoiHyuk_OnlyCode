@@ -22,19 +22,19 @@
 
 ### 2\. 힌트아이템을 얻어 비밀번호를 입력
 
-![img1 daumcdn](https://github.com/ParkInsu456/B02_DetectiveChoiHyuk/assets/167048097/c6d590b5-9e9c-4d8a-b513-47235e6ddb41)
+![Image](https://github.com/user-attachments/assets/6e2f3f13-e1a9-45bf-85ee-35ed98f7d785)
 
 ### 3\. 특정지역 진입시 플레이어를 쫒는 적을 피해 미션을 해결
 
-![img1 daumcdn](https://github.com/ParkInsu456/B02_DetectiveChoiHyuk/assets/167048097/4fc2598c-bac7-4ffe-b174-fed1f5918088)
+![Image](https://github.com/user-attachments/assets/70a089fc-1039-4a0c-b733-7b6426ca83dc)
 
 ### 4\. 컴퓨터와 상호작용, 컴퓨터 안의 정보로 퍼즐해제 힌트를 얻음
 
-![img1 daumcdn](https://github.com/ParkInsu456/B02_DetectiveChoiHyuk/assets/167048097/97c3ec88-9cdf-47a0-8395-4a6a5c3bdca2)
+![Image](https://github.com/user-attachments/assets/c42a099e-2dd8-4fd9-b709-0da2d1655713)
 
 ### 5\. 화재지역
 
-![img1 daumcdn](https://github.com/ParkInsu456/B02_DetectiveChoiHyuk/assets/167048097/7940583d-1d07-4ec9-befc-5c969767a0ce)
+![Image](https://github.com/user-attachments/assets/10000cde-674b-4cbd-ba38-9bf92773b5b9)
 
 -   화재지역 안에 있으면 시간이 지날때마다 체력이 떨어짐. 연기를 파티클을 이용해 묘사.
 
