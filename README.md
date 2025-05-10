@@ -18,7 +18,7 @@
 
 ### 1\. 방 안에서 힌트아이템을 얻어 힌트를 얻고 아이템을 획득, 소지한채로 상호작용
 
-![img1 daumcdn](https://github.com/ParkInsu456/B02_DetectiveChoiHyuk/assets/167048097/c5988845-fe44-4b5c-a720-e65578ad41fe)
+![Image](https://github.com/user-attachments/assets/2617e5b2-081c-4f93-8eb5-2db0b0e29b8a)
 
 ### 2\. 힌트아이템을 얻어 비밀번호를 입력
 
